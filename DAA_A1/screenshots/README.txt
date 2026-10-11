@@ -1,0 +1,1 @@
+Save genuine terminal screenshots here after running the program on your computer.

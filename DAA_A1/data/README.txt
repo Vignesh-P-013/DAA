@@ -1,0 +1,1 @@
+Large datasets are generated deterministically by src/benchmark.py; do not commit unnecessary million-row data files.

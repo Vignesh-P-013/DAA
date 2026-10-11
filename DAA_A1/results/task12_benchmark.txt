@@ -1,0 +1,7 @@
+Task 12 hash-index benchmark
+records: 1000000
+queries: 50000
+found: 50000
+elapsed_seconds: 0.039229
+queries_per_second: 1274575.83
+average_microseconds_per_query: 0.785
